@@ -1,0 +1,9 @@
+Fichier          Welzl(nanosecondes)    Naif(nanosecondes)        
+test-0.points      41027600                 240400      
+test-1.points      25700                 63000      
+test-10.points      135200                 129000      
+test-100.points      378600                 1705300      
+test-1000.points      8177200                 5823501200      
+test-200.points      575200                 56371900      
+test-2000.points      16188200                 39929353200     
+test-500.points      1530300                 537635000     
